@@ -11,7 +11,7 @@
   align-items: flex-start;
   max-width: 580px;
   margin: 0 auto;
-  background-color: bisque;
+  background: linear-gradient(to bottom, #09599a, #df8217);
   border: 1px solid rgba(0, 0, 0, 0.63);
   box-shadow: -10px 8px 6px -3px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
